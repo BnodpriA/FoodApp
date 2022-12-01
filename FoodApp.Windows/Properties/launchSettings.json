@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "FoodApp.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
